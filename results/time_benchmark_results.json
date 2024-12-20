@@ -1,0 +1,16 @@
+{
+    "Timing": {
+        "np_random_normal": 0.0013258999999999333,
+        "generate_dataset_ppf": 0.023292848999999904,
+        "generate_dataset_accrej": 1.5804736320000001,
+        "fit": 44.200037821
+    },
+    "Relative_Times": {
+        "ppf_vs_normal": 17.567575986123444,
+        "accrej_vs_normal": 1192.0006274983632,
+        "fit_vs_normal": 33335.87587374781
+    },
+    "Efficiency": {
+        "accept_reject_efficiency": 0.020004867364452682
+    }
+}
